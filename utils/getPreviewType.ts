@@ -1,17 +1,6 @@
 import { getExtension } from './getFileIcon'
 
-export const preview = {
-  markdown: 'markdown',
-  image: 'image',
-  text: 'text',
-  pdf: 'pdf',
-  code: 'code',
-  video: 'video',
-  audio: 'audio',
-  office: 'ms-office',
-  epub: 'epub',
-  url: 'url',
-}
+
 
 export const extensions = {
   gif: preview.image,
@@ -63,6 +52,7 @@ export const extensions = {
   flv: preview.video,
   webm: preview.video,
   m3u8: preview.video,
+  mkv: preview.video,
   mov: preview.video,
   avi: preview.video, // won't work!
 
