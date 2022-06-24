@@ -1,6 +1,7 @@
 import { getExtension } from './getFileIcon'
 
-
+export const preview = {
+}
 
 export const extensions = {
   gif: preview.image,
