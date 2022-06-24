@@ -49,12 +49,12 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'GitHub',
-      link: 'https://github.com/spencerwooo/onedrive-vercel-index',
+      name: 'Website',
+      link: 'https://asagichan.com/',
     },
     {
-      name: 'Telegram',
-      link: 'https://t.me/realSpencerWoo',
+      name: 'Whatsapp',
+      link: 'https://chat.whatsapp.com/Ha055uYS9ra8tj9tTIctG4',
     },
   ],
 
